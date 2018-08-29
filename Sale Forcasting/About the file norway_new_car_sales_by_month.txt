@@ -1,0 +1,22 @@
+Summary stats for car sales in Norway by month.
+
+norway_new_car_sales_by_month.csv
+
+Year - year of sales
+Month - month of sales
+Quantity - total number of units sold
+Quantity_YoY - change YoY in units
+Import - total number of units imported (used cars)
+Import_YoY - change YoY in units
+Used - total number of units owner changes inside the country (data available from 2012)
+Used_YoY - change YoY in units
+Avg_CO2 - average CO2 emission of all cars sold in a given month (in g/km)
+Bensin_CO2 - average CO2 emission of bensin-fueled cars sold in a given month (in g/km)
+Diesel_CO2 - average CO2 emission of diesel-fueled cars sold in a given month (in g/km)
+Quantity_Diesel - number of diesel-fueled cars sold in the country in a given month
+Diesel_Share - share of diesel cars in total sales (Quantity_Diesel / Quantity)
+Diesel_Share_LY - share of diesel cars in total sales a year ago
+Quantity_Hybrid - number of new hybrid cars sold in the country (both PHEV and BV)
+Quantity_Electric - number of new electric cars sold in the country (zero emission vehicles)
+Import_Electric - number of used electric cars imported to the country (zero emission vehicles)
+The numbers on sales of hybrid and electric cars is unavailable prior to 2011.
